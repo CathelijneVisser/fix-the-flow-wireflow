@@ -1,6 +1,4 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-#Coding the curbs wireflow
+<h1>Coding the curbs wireflow</h1>
 
 ## Gebruiker
 <!-- Het is duidelijk wie de gebruiker is -->
