@@ -2,20 +2,17 @@
 
 # Titel
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+Coding the curbs wireflow
 
 ## Gebruiker
 <!-- Het is duidelijk wie de gebruiker is -->
+De gebruikers zijn mensen die een smartzone willen huren. 
 
 ## User Story
 <!-- Er is een User Story geschreven van de interactie -->
+Als gebruiker wil ik mijn gegevens kunnen opslaan, zodat ik mijn gegevens niet hoef te herhalen.
 
 ## Wireflow
 <!-- Toon de wireflow -->
 
  
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
